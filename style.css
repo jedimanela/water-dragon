@@ -14,3 +14,28 @@ ul {
     font-size: larger;
     font-family: monospace;
 }
+
+#jobDescription {
+    color:crimson;
+}
+
+#resumeUpload {
+    font-weight: bold;
+}
+
+.noticeable {
+    text-decoration: underline;
+    color:darkorange;
+}
+
+.highlight {
+    background-color: burlywood;
+}
+
+h2, h1 {
+    font-family: fantasy;
+}
+
+ol li {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
